@@ -7,7 +7,7 @@ Monorepo-оркестратор для проектов [Kodiq AI](https://githu
 | Проект | Описание | Стек |
 |--------|----------|------|
 | [`academy`](https://github.com/kodiq-ai/academy) | Образовательная платформа, курсы | — |
-| [`ide`](https://github.com/kodiq-ai/ide) | AI Desktop IDE | Tauri 2, React 19, TypeScript |
+| [`workspace`](https://github.com/kodiq-ai/workspace) | AI Workspace | Tauri 2, React 19, TypeScript |
 | [`mobile`](https://github.com/kodiq-ai/mobile) | Мобильное приложение | React Native |
 | [`web`](https://github.com/kodiq-ai/web) | Лендинг kodiq.ai | Next.js |
 | [`shared`](https://github.com/kodiq-ai/shared) | Общие пакеты (auth, UI, types) | TypeScript |
@@ -36,7 +36,7 @@ git submodule update --init --recursive
 git submodule update --remote
 
 # Обновить конкретный
-git submodule update --remote ide
+git submodule update --remote workspace
 ```
 
 ## Лицензия

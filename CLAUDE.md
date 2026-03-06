@@ -7,7 +7,7 @@
 ```
 kodiq/
 ├── academy/    — Образовательная платформа, курсы
-├── ide/        — AI Desktop IDE (Tauri + React) → ide/CLAUDE.md
+├── workspace/  — AI Workspace (Tauri + React) → workspace/CLAUDE.md
 ├── mobile/     — React Native мобильное приложение
 ├── web/        — Лендинг kodiq.ai (Next.js) → web/CLAUDE.md
 ├── shared/     — Общие пакеты: auth, UI, types (@kodiq/shared)
